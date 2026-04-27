@@ -17,3 +17,6 @@ This project uses Linear Regression to predict student marks based on study hour
 
 ## Output
 Graph showing relationship between study hours and marks.
+## Output Graph
+
+![Graph](graph.png)
